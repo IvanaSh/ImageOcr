@@ -21,4 +21,4 @@ To install the necessary requirements in order to use ImageOcr type:
 
 ```
 ABCDEFGHIJKLIVI
-   NOPQRSTUVWXYZ
+NOPQRSTUVWXYZ
