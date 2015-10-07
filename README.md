@@ -20,5 +20,6 @@ To install the necessary requirements in order to use ImageOcr type:
 >>>print i.to_string()
 
 ```
+and the output for test1.png would be:
 ABCDEFGHIJKLIVI
 NOPQRSTUVWXYZ
